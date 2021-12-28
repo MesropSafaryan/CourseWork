@@ -1,0 +1,9 @@
+D:\vs project\Coursework_Safaryan\EntityService\bin\Debug\EntityService.dll
+D:\vs project\Coursework_Safaryan\EntityService\bin\Debug\EntityService.pdb
+D:\vs project\Coursework_Safaryan\EntityService\bin\Debug\DLL.dll
+D:\vs project\Coursework_Safaryan\EntityService\bin\Debug\DLL.pdb
+D:\vs project\Coursework_Safaryan\EntityService\obj\Debug\EntityService.csprojAssemblyReference.cache
+D:\vs project\Coursework_Safaryan\EntityService\obj\Debug\EntityService.csproj.CoreCompileInputs.cache
+D:\vs project\Coursework_Safaryan\EntityService\obj\Debug\EntityService.csproj.CopyComplete
+D:\vs project\Coursework_Safaryan\EntityService\obj\Debug\EntityService.dll
+D:\vs project\Coursework_Safaryan\EntityService\obj\Debug\EntityService.pdb

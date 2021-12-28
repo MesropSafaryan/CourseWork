@@ -1,0 +1,14 @@
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\PL_Console.exe.config
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\PL_Console.exe
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\PL_Console.pdb
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\BLL.dll
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\DLL.dll
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\EntityService.dll
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\BLL.pdb
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\DLL.pdb
+D:\vs project\Coursework_Safaryan\PL_Console\bin\Debug\EntityService.pdb
+D:\vs project\Coursework_Safaryan\PL_Console\obj\Debug\PL_Console.csprojAssemblyReference.cache
+D:\vs project\Coursework_Safaryan\PL_Console\obj\Debug\PL_Console.csproj.CoreCompileInputs.cache
+D:\vs project\Coursework_Safaryan\PL_Console\obj\Debug\PL_Console.csproj.CopyComplete
+D:\vs project\Coursework_Safaryan\PL_Console\obj\Debug\PL_Console.exe
+D:\vs project\Coursework_Safaryan\PL_Console\obj\Debug\PL_Console.pdb

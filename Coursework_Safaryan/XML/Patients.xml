@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfElectronicCardPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ElectronicCardPatient>
+    <Name>Андрій</Name>
+    <Surname>Кравченко</Surname>
+    <Patronymic>Іванович</Patronymic>
+    <Age>30</Age>
+    <Growth>170</Growth>
+    <Weight>70</Weight>
+    <BloodType>I+</BloodType>
+    <DateBirth>1991-01-01T00:00:00</DateBirth>
+    <CodeCard>000001</CodeCard>
+    <DayOfAdmission>20</DayOfAdmission>
+    <HourOfAdmission>8</HourOfAdmission>
+    <MinuteOfAdmission>10</MinuteOfAdmission>
+    <DurationOfAdmission>15</DurationOfAdmission>
+  </ElectronicCardPatient>
+  <ElectronicCardPatient>
+    <Name>Наталя</Name>
+    <Surname>Сергійчук</Surname>
+    <Patronymic>Петрівна</Patronymic>
+    <Age>22</Age>
+    <Growth>164</Growth>
+    <Weight>55</Weight>
+    <BloodType>III-</BloodType>
+    <DateBirth>1990-07-06T00:00:00</DateBirth>
+    <CodeCard>000002</CodeCard>
+    <DayOfAdmission>20</DayOfAdmission>
+    <HourOfAdmission>9</HourOfAdmission>
+    <MinuteOfAdmission>0</MinuteOfAdmission>
+    <DurationOfAdmission>15</DurationOfAdmission>
+  </ElectronicCardPatient>
+</ArrayOfElectronicCardPatient>

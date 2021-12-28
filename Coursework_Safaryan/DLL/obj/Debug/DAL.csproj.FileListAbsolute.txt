@@ -1,0 +1,6 @@
+D:\vs project\Coursework_Safaryan\DLL\bin\Debug\DLL.dll
+D:\vs project\Coursework_Safaryan\DLL\bin\Debug\DLL.pdb
+D:\vs project\Coursework_Safaryan\DLL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\vs project\Coursework_Safaryan\DLL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\vs project\Coursework_Safaryan\DLL\obj\Debug\DLL.dll
+D:\vs project\Coursework_Safaryan\DLL\obj\Debug\DLL.pdb

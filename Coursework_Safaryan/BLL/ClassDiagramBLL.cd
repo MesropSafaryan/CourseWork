@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.BasicCharacteristics">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAQAAAAEAEAAQABAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicCharacteristics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Doctor">
+    <Position X="10.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAgBAAAAAABAACAAQAAgAQAAAAAABRACSAAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.ElectronicCardPatient">
+    <Position X="8" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAEAAQAAAAEIAAAAQAAAAAAAIABAAAAAQA=</HashCode>
+      <FileName>ElectronicCardPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Patient">
+    <Position X="8" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAQAAEAEAAAQAAAAGAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Reception">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAABAAAABQgAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Reception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DataValidation.CatchExceptions">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataValidation\CatchExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DataValidation.DataValid">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAQAAAAAEAEQAQABCAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>DataValidation\DataValid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
